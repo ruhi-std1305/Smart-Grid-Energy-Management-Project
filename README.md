@@ -1,4 +1,4 @@
-# Smart-Grid-Energy-Management-Project- 
+# Smart-Grid-Energy-Management-Project 
 
 A C++ console-based group project created to demonstrate problem-solving using three important algorithmic approaches: **Dynamic Programming**, **Divide and Conquer**, and **Greedy Algorithms**.  
 These methods are applied to real-world smart grid energy management problems such as demand prediction, energy distribution, and maintenance scheduling.  
